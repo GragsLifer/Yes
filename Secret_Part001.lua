@@ -2,13 +2,7 @@
 local obj636559 = Instance.new("Camera")
 obj636559.Name = "Camera"
 obj636559.Parent = game.Workspace
-local obj430811 = Instance.new("Terrain")
-obj430811.Name = "Terrain"
-obj430811.Size = Vector3.new(2044, 252, 2044)
-obj430811.Position = Vector3.new(0, 0, 0)
-obj430811.Anchored = true
-obj430811.BrickColor = BrickColor.new("Medium stone grey")
-obj430811.Parent = game.Workspace
+local obj430811 = workspace.Terrain
 local obj529986 = Instance.new("ModuleScript")
 obj529986.Name = "Cum"
 obj529986.Source = [[
